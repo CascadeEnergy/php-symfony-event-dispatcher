@@ -3,7 +3,6 @@
 namespace CascadeEnergy\Tests\SymfonyEventDispatcher;
 
 use CascadeEnergy\SymfonyEventDispatcher\EventDispatcherConsumerTrait;
-use Symfony\Component\EventDispatcher\EventDispatcherInterface;
 
 class EventDispatcherConsumerTraitTest extends \PHPUnit_Framework_TestCase
 {
