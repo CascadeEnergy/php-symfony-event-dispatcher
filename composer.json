@@ -1,5 +1,5 @@
 {
-  "name": "CascadeEnergy/php-symfony-event-dispatcher",
+  "name": "cascade-energy/php-symfony-event-dispatcher",
   "description": "Simple support code for Symfony's event dispatcher component",
   "minimum-stability": "stable",
   "license": "MIT",
